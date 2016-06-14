@@ -1,6 +1,6 @@
-# Frogger
+# Etch-a-Sketch
 
-Frogger is an elm-based implementation of the old standby Frogger game. To build it, you need the following dependencies installed:
+Etch-a-Sketch is an elm-based implementation of the old standby child's toy.To build it, you need the following dependencies installed:
 
 * Elm, version 0.17 or greater.
 
